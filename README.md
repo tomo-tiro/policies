@@ -11,6 +11,8 @@ policies/
 ├── index.html        # アプリ一覧トップ
 ├── te-ssera/
 │   └── index.html    # te-ssera のポリシー・サポート
+├── mark/
+│   └── index.html    # mark のポリシー・サポート
 └── <アプリ名>/
     └── index.html    # 新規アプリはサブフォルダを追加
 ```
@@ -19,6 +21,7 @@ policies/
 
 - 一覧: `https://tomo-tiro.github.io/policies/`
 - te-ssera: `https://tomo-tiro.github.io/policies/te-ssera/`
+- mark: `https://tomo-tiro.github.io/policies/mark/`
 
 ## アプリ追加手順
 
